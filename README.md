@@ -2,8 +2,8 @@
  Graph Algorithm Visualization
 
 # Implemented
-## - Breath For Search
-## - Depth For Search
+## - Breath First Search
+## - Depth First Search
 
 # TODO
 ## - A* Algorithm 💻💻💻💻
