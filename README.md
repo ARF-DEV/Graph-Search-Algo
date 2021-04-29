@@ -2,8 +2,8 @@
  Graph Algorithm Visualization
 
 # Implemented
-## - BFS
-## - DFS
+## - Breath For Search
+## - Depth For Search
 
 # TODO
 ## - A* Algorithm 💻💻💻💻
