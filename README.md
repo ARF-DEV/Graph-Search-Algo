@@ -2,4 +2,4 @@
  Graph Algorithm Visualization
 
 ## TODO
-* #A* Algorithm 💻💻💻💻
+#* A* Algorithm 💻💻💻💻
