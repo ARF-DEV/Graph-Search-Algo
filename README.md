@@ -2,8 +2,8 @@
  Graph Algorithm Visualization
 
 # Implemented
-## * BFS
-## * DFS
+## - BFS
+## - DFS
 
 # TODO
-## * A* Algorithm 💻💻💻💻
+## - A* Algorithm 💻💻💻💻
