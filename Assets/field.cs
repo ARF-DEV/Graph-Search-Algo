@@ -70,7 +70,7 @@ public class field : MonoBehaviour
     void Start()
     {
         
-        TypeText.text = "Breath For Search";
+        TypeText.text = "Breath First Search";
         
         
         tileField = new tile[fieldWidth * fieldHeight];
@@ -143,9 +143,9 @@ public class field : MonoBehaviour
         }
 
         if (SolveType)
-            TypeText.text = "Depth For Search";
+            TypeText.text = "Depth First Search";
         else
-            TypeText.text = "Breath For Search";
+            TypeText.text = "Breath First Search";
     }
 
     
